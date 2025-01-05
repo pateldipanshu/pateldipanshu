@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Currently learning: Frontend Developement.<br><br>🔭 Working on: MyntraClone Homepage.<br><br>💡 Interested in: Web Development.<br><br>💬 Ask me about: React.Js, Javascript, OOPS, MS SQL Server, CSS, HTML.<br><br>📫 How to reach me: dipanshupatel857@gmail.com
+🌱Currently learning: Frontend Developement.<br><br>🔭 Worked on: AI Assistant(Shifra), News Blog, Airbnb Clone .<br><br>💡 Interested in:Frontend Development, Web Development.<br><br>💬 Ask me about: React.Js, Javascript, OOPS, MS SQL Server, CSS, HTML.<br><br>📫 How to reach me: dipanshupatel857@gmail.com
 
 
 ## 🌐 Socials:
