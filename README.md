@@ -77,6 +77,8 @@ A comprehensive HRMS built using the MERN Stack with role-based authentication a
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
+**Live Demo:** [wwlhrms.digitalwebguider.com](https://wwlhrms.digitalwebguider.com/)
+
 ---
 
 ### 🤖 Shifra AI Assistant
@@ -102,6 +104,8 @@ A modern business website developed for showcasing company services with a respo
 
 **Tech Stack:** React.js • Bootstrap • CSS • JavaScript
 
+**Live Demo:** [digitalwebguider.com](https://digitalwebguider.com/)
+
 ---
 
 ### 👓 ATAL Optical
@@ -114,6 +118,8 @@ An e-commerce website for an optical store featuring stylish product displays an
 - 🎨 Modern User Interface
 
 **Tech Stack:** React.js • Bootstrap • CSS • JavaScript
+
+**Live Demo:** [ataloptical.org](https://ataloptical.org/)
 
 ---
 
