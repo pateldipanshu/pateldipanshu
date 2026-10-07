@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <rect width="1200" height="300" rx="18" fill="#060d2b"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="17" fill="none" stroke="#ef4444" stroke-opacity="0.7" stroke-width="3"/>
+  <text x="50" y="60" fill="#7aa2ff" font-family="Consolas, monospace" font-size="16" letter-spacing="3">01 / FROM THOUGHT TO THING</text>
+  <text x="50" y="115" fill="#fff" font-family="Impact, 'Arial Black', sans-serif" font-size="52">BUILT DIFFERENT.</text>
+  <g font-family="Impact, 'Arial Black', sans-serif" text-anchor="middle">
+    <rect x="50" y="150" width="320" height="110" rx="12" fill="#0b1b4a" stroke="#2563eb" stroke-width="3"/>
+    <text x="210" y="205" fill="#fff" font-size="44">01</text><text x="210" y="240" fill="#9fb3d9" font-size="20" letter-spacing="2">LEARN</text>
+    <rect x="440" y="150" width="320" height="110" rx="12" fill="#0b1b4a" stroke="#2563eb" stroke-width="3"/>
+    <text x="600" y="205" fill="#fff" font-size="44">02</text><text x="600" y="240" fill="#9fb3d9" font-size="20" letter-spacing="2">BUILD</text>
+    <rect x="830" y="150" width="320" height="110" rx="12" fill="#2a0b1f" stroke="#ef4444" stroke-width="3"/>
+    <text x="990" y="205" fill="#ef4444" font-size="44">03</text><text x="990" y="240" fill="#ffd0d0" font-size="20" letter-spacing="2">SHIP</text>
+  </g>
+  <g stroke="#7aa2ff" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M385 205h40m-12-12 12 12-12 12"/><path d="M775 205h40m-12-12 12 12-12 12"/>
+  </g>
+</svg>
