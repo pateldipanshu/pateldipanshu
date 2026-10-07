@@ -1,158 +1,97 @@
-# 👋 Hi, I'm Dipanshu Patel
+<div align="center">
 
-### MERN Stack Developer | React.js Developer | JavaScript Enthusiast
+<img src="assets/hero.svg" width="100%" alt="Dipanshu Patel – Build. Beyond." />
 
-I'm a passionate Full Stack Developer specializing in the MERN Stack. I enjoy building responsive, user-friendly web applications and continuously improving my skills by working on real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F6BFF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+real-world+web+apps" alt="typing" />
 
----
-
-## 🚀 About Me
-
-🌱 Currently learning **Advanced React.js & MERN Stack**
-
-💻 Building modern web applications using the **MERN Stack**
-
-🎯 Interested in **Frontend Development, Full Stack Development & Web Technologies**
-
-💬 Ask me about:
-- React.js
-- JavaScript (ES6+)
-- Node.js
-- Express.js
-- MongoDB
-- HTML5 & CSS3
-- Bootstrap
-- Git & GitHub
-- MS SQL Server
-
-📫 Reach me at:
-**dipanshupatel857@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-patel-388a1b285)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-patel-388a1b285)
+[![Email](https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshupatel857@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dipansh62735873)
 
----
+<img src="assets/journey.svg" width="100%" alt="Learn, Build, Ship" />
 
-## 💻 Tech Stack
+</div>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+## ⚡ Tech Stack
 
-### Backend
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+</div>
 
 ## 🚀 Featured Projects
 
-### 🏢 HRMS (Human Resource Management System)
-A comprehensive HRMS built using the MERN Stack with role-based authentication and employee management.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Features**
-- 👥 Multi-role authentication (HR, Manager, Team Lead, Employee)
-- ⏱️ Attendance & Punch In/Out System
-- 📅 Leave & Holiday Management
-- 📊 Employee Dashboard
-- 📈 Reports & Analytics
-- 🔐 JWT Authentication & Role-Based Access Control
+### 🏢 HRMS
+Role-based HR system: attendance, leave, reports, JWT auth.
+`React` `Node` `Express` `MongoDB`
+[Live demo](https://wwlhrms.digitalwebguider.com)
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
-
-**Live Demo:** [wwlhrms.digitalwebguider.com](https://wwlhrms.digitalwebguider.com/)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Shifra AI Assistant
-An AI-powered web assistant designed to provide intelligent responses and improve user interaction.
+AI chat interface with a fast, responsive React UI.
+`React` `Node` `Express` `AI APIs`
 
-**Key Features**
-- 💬 AI Chat Interface
-- ⚡ Fast & Responsive UI
-- 🎨 Modern React Design
-
-**Tech Stack:** React.js • Node.js • Express.js • AI APIs
-
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 ### 🌐 Digital Web Guider
-A modern business website developed for showcasing company services with a responsive and professional user interface.
+Business website with service and contact pages.
+`React` `Bootstrap` `CSS`
+[Live demo](https://digitalwebguider.com)
 
-**Key Features**
-- 📱 Fully Responsive Design
-- 🎨 Modern UI/UX
-- ⚡ Optimized Performance
-- 📞 Contact & Service Pages
-
-**Tech Stack:** React.js • Bootstrap • CSS • JavaScript
-
-**Live Demo:** [digitalwebguider.com](https://digitalwebguider.com/)
-
----
+</td>
+<td valign="top">
 
 ### 👓 ATAL Optical
-An e-commerce website for an optical store featuring stylish product displays and an engaging shopping experience.
+E-commerce store with category browsing, mobile ready.
+`React` `Bootstrap` `JS`
+[Live demo](https://ataloptical.org)
 
-**Key Features**
-- 🛍️ Product Showcase
-- 🎯 Category-Based Browsing
-- 📱 Mobile Responsive
-- 🎨 Modern User Interface
-
-**Tech Stack:** React.js • Bootstrap • CSS • JavaScript
-
-**Live Demo:** [ataloptical.org](https://ataloptical.org/)
-
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🏠 Airbnb Clone
-A full-stack accommodation booking platform inspired by Airbnb.
+Full-stack booking platform: auth, listings, wishlist.
+`MongoDB` `Express` `React` `Node`
 
-**Key Features**
-- 🔑 User Authentication
-- 🏡 Property Listings
-- ❤️ Wishlist
-- 📱 Responsive Design
+</td>
+</tr>
+</table>
 
-**Tech Stack:** MongoDB • Express.js • React.js • Node.js
+## 📊 GitHub Stats
 
----
+<div align="center">
 
-## 📈 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pateldipanshu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1128&title_color=2f6bff&icon_color=ef4444" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldipanshu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1128&title_color=2f6bff" />
 
-![](https://github-readme-stats.vercel.app/api?username=pateldipanshu&show_icons=true&theme=tokyonight)
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pateldipanshu&theme=tokyonight)
+## 🎯 Currently
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pateldipanshu&layout=compact&theme=tokyonight)
+- 📚 Mastering advanced React and the MERN stack
+- 🛠️ Building scalable full-stack apps
+- 🤝 Contributing to open source
+- 💼 Looking for a Full Stack / React developer role
 
----
-
-## 🎯 Current Goals
-
-- 📚 Master the MERN Stack
-- ⚡ Build scalable full-stack applications
-- 🤝 Contribute to Open Source
-- 💼 Secure a Full Stack / React Developer role
-
----
-
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+<div align="center"><sub>Thanks for visiting. Let's connect and build something.</sub></div>
