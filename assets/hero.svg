@@ -14,7 +14,7 @@
   <text x="60" y="140" fill="#9fb3d9" font-family="Consolas, monospace" font-size="26">Hey there, I'm</text>
   <text x="60" y="235" fill="#ffffff" font-family="Impact, 'Arial Black', sans-serif" font-size="104" letter-spacing="2">DIPANSHU</text>
   <text x="60" y="330" fill="#2f6bff" font-family="Impact, 'Arial Black', sans-serif" font-size="104" letter-spacing="2">PATEL</text>
-  <g transform="translate(470,262)" font-family="Impact, 'Arial Black', sans-serif" fill="#fff" font-size="30">
+  <g transform="translate(580,262)" font-family="Impact, 'Arial Black', sans-serif" fill="#fff" font-size="30">
     <rect x="-30" y="-38" width="22" height="12" fill="#ef4444" transform="skewX(-20)"/>
     <text x="0" y="-8">BUILD.</text><text x="0" y="26">BEYOND.</text>
   </g>
